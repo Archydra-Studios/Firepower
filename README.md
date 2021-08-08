@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Firepower
 
-## Setup
+Firepower is a work-in-progress fabric gun mod made by Archydra Studios, designed to evade the pitfalls of many other gun mods.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Contact
+
+You can contact us via our [discord](https://discord.gg/QsGnr29Rhm).
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
